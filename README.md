@@ -1,7 +1,7 @@
 # Godot 4 & Rust WebSocket Server Minimal
 
 <p align="center">
-<img width="600" src="https://github.com/godot-game-samples/godot-websocket/blob/main/assets/screenshot/screen.png">
+<img width="300" src="https://github.com/godot-game-samples/godot-websocket/blob/main/assets/screenshot/screen.png">
 </p>
 
 Based on [websocket_minimal](https://github.com/godotengine/godot-demo-projects/tree/master/networking/websocket_minimal).
